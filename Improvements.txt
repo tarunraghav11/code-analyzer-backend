@@ -1,0 +1,9 @@
+1. Improve Error handling everywhere.
+2. In package.json, npm run dev command runs the src/app.js file but the app.js file is outside the src folder.
+3. Vulnerabilites are coming while installing.
+4. Why are we using github api ?
+5. No proper logs are there.
+6. Don't include unnecessary file while analyzing (Eg. - package-lock.json, gitignore, etc)
+7. Make proper readme file which documents whole setup including java.
+8. Implement self healing logic in case UML generation give errors.
+9. Diagrams can be more better and informative.
